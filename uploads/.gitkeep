@@ -1,0 +1,5 @@
+# Uploads directory
+
+Temporary uploaded files are stored here. This directory is auto-created
+by the backend and should be cleaned periodically. Contents are not
+committed to version control.

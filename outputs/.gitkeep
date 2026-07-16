@@ -1,0 +1,4 @@
+# Outputs directory
+
+Annotated detection results (images and videos) are stored here and served
+statically by the FastAPI backend at `/outputs/`. Auto-created by the backend.
