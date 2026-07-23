@@ -21,7 +21,7 @@ MODEL_INPUT_SIZE=640
 # API
 API_HOST=0.0.0.0
 API_PORT=8000
-CORS_ORIGINS=http://localhost:5173
+CORS_ORIGINS=https://ai-waste-detection.onrender.com
 
 # Uploads
 MAX_UPLOAD_MB=100
